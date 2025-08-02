@@ -1,16 +1,38 @@
-## Hi there 👋
+
+# 👋 Hi, I'm Prakash!
+
+### 🚀 Junior Software Engineer in Test  
+Welcome to my GitHub! I’m passionate about ensuring software quality and reliability. As a Junior Software Engineer in Test, I combine my coding skills with a keen eye for detail to deliver robust and scalable solutions.
+
+---
+
+## 🛠️ Technical Skills
+- **Languages & Tools:**  
+  Java | JavaScript | Python | MySQL | PostgreSQL
+- **Dev & Cloud:**  
+  Git | AWS | JIRA | Postman | Playwright
+
+---
+
+## 💡 Featured Project
+**No Parking Violation Detection**  
+A smart project focused on detecting parking violations using technology (details and repo coming soon!).
+
+---
+
+## 🎬 Hobbies & Interests
+- Watching movies
+- Researching the latest in tech
+
+---
+
+## 📈 Let’s Connect!
+<!-- Add your LinkedIn, portfolio, or other social links here if you’d like -->
+
+---
+
+> _“Always learning, always testing!”_
 
 <!--
-**E204182Prakash/E204182Prakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://komarev.com/ghpvc/?username=E204182Prakash&style=flat-square)
 -->
