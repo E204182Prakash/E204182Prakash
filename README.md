@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e204182prakash&label=Profile%20views&color=0e75b6&style=flat" alt="e204182prakash" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=e204182prakash" alt="e204182prakash" /></a> </p>
-
 - 🔭 I’m currently working on [Playwright Automation](https://github.com/E204182Prakash/playwright-automation)
 
 - 🌱 I’m currently learning **Docker and jenkins**
