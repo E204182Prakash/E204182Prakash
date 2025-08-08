@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakash</h1>
 <h3 align="center">Junior Software Engineer in Test</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=e204182prakash&label=Profile%20views&color=0e75b6&style=flat" alt="e204182prakash" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=e204182prakash&label=Profile%20views&color=0e75b6&style=flat" alt="e204182prakash" /> </p>
 
 - 🔭 I’m currently working on [Playwright Automation](https://github.com/E204182Prakash/playwright-automation)
 
