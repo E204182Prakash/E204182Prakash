@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=e204182prakash&label=Profile%20views&color=0e75b6&style=flat" alt="e204182prakash" /> </p>
 
-- 🔭 I’m currently working on [Playwright Automation](https://github.com/E204182Prakash/playwright-automation)
+- 🔭 I’m currently working on [Playwright Automation](https://github.com/E204182Prakash/Automation-Project02)
 
 - 🌱 I’m currently learning **Docker and jenkins**
 
